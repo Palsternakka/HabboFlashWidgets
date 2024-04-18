@@ -1,0 +1,9 @@
+[
+    { "id": 1, "name": "Parsnip", "motto": "Developer, Habbo enthusiast :)", "figure": "hd-185-10.ch-255-82.lg-275-62.sh-295-62.hr-145-38", "badge": null, "groupBadge": null, "online": true },
+    { "id": 2, "name": "xOwnz", "motto": "Hello!", "figure": "lg-281-96.hd-190-1.ch-255-110.ha-1002-104.hr-893-48.sh-906-104.ca-1814-96", "badge": null, "groupBadge": null, "online": false },
+    { "id": 3, "name": "Alcosmos", "motto": "She/Her alcosmos.net ", "figure": "lg-696-84.fa-1212-70.hd-605-7.ch-665-62.ha-1023-96.hr-890-55", "badge": null, "groupBadge": null, "online": false },
+    { "id": 4, "name": "Joorren", "motto": "Swiggity swooty", "figure": "ca-1813-.hd-195-2.sh-290-92.lg-281-95.fa-1204-.hr-828-31.he-1601-.ea-1406-.ch-215-93", "badge": null, "groupBadge": null, "online": true },
+    { "id": 5, "name": "Ultra", "motto": "veni vidi vici", "figure": "hd-180-7.sh-290-92.lg-280-82.hr-831-61.he-1609-92.ch-215-81", "badge": null, "groupBadge": null, "online": false },
+    { "id": 6, "name": "Pea", "motto": null, "figure": "sh-730-92.ea-1402-.ca-1815-62.hd-605-28.lg-700-110.hr-836-61.ha-1002-97.ch-660-93", "badge": null, "groupBadge": null, "online": false },
+    { "id": 7, "name": "Mojko", "motto": null, "figure": "hd-185-29.ch-255-81.lg-275-110.sh-295-110.he-1604-.hr-828-58.ea-1401-110", "badge": "ADM", "groupBadge": null, "online": true }
+]
